@@ -20,14 +20,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Telegram Link : https://t.me/RknDeveloper 
-Repo Link : https://github.com/RknDeveloper/RknFileRenameBot
+Telegram Link : https://t.me/Anity_managementbots
+Repo Link : https://github.com/RknDeveloper/Wanttobuy
 License Link : https://github.com/RknDeveloper/Rkn-rename-bot-V3/blob/main/LICENSE
 """
 __name__ = "Rename-Bot"
 __version__ = "3.0.2"
 __license__ = " Apache License, Version 2.0"
-__copyright__ = "Copyright (C) 2022-present RknDeveloper <https://github.com/RknDeveloper>"
+__copyright__ = "Copyright (C) 2022-present AnitySmile <https://github.com/Wanttobuy>"
 
 # main working files 
 # - bot.py
