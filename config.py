@@ -14,8 +14,8 @@ class Config(object):
     API_HASH = os.environ.get("API_HASH", "43b91164d7825dc577c2baa7c6cdcee6")
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
 
-    # premium account string session required 😢 
-    STRING_SESSION = os.environ.get("STRING_SESSION", "BQFCPbcAmOrlu6evMUo1OnH8LGya2LYim9nbmvgsCiumxSLEb8IPpntxdxdcJMPV69M_fdexcvHCW-GJbeHSWZdCG0NltWAg2mgBhI913453qzZUlQTBumgw3pyWkgrUVE5odf31ZhKZC3MsI3uqKhKeKZ78hnLwBPFxSVI9fdhjgvpVxsgjvqkM3EaBKu9jIjDWgkPD0MzJLeo4BH0hxB9h-huHYBKoJTC3_rhexRwuq-9m3ZudPaVxhBmn4KHH86K01PPVjQrX3Ga1CGHkVHccqF_pqXHdarC-j_d7On3LOxSdkaAG7r8eHuSfyFrrxz_2j1rHN2On58jfSN1Lk3XmtcbGawAAAAGJgMuXAQ")
+    # premium account string session required 
+    STRING_SESSION = os.environ.get("STRING_SESSION", "AQFCPbcApC3Gc6p605h59zcaFshopY4fv9UP6m6261ASD6Gb8XWLPg83gS0ATdzd19Qql0HNf908Z6PjPLUftEcwDGAzEtz23NeSlXjr6TD5gT5xGJkljQDUcIAwAgx0fzLiQDTvCcjWIQle0XkLwqKznzkPZN4-w8R6P9y9B3tekFhHtd6glBZdsWbMCey9ktXeSLutmV1kvl13I_UySdve27vwhGE3BqNLH6phZMS_iVKzBKE3jdT8qYay3u4EJ71bI-P-BVFEuk8KaPRzMFMNLlwoKTzqGjlrgbRycia4A-b1aoQ_sy4d0Y1zM55FZzaiiJSmUSGIruSP4Lz9-kRZHnVQ6gAAAAFXWOSNAA")
     
     # database config
     DB_NAME = os.environ.get("DB_NAME","Digital_Rename_Bot")     
