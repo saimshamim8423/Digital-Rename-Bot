@@ -15,7 +15,7 @@ class Config(object):
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
 
     # premium account string session required 
-    STRING_SESSION = os.environ.get("STRING_SESSION", "BQGaovQAGtgxZ0fpVtt-HtNaEb9-bWBeqsx-tedl-fOmAuMTeDirUfFkFzwcb-SNhYUIgmsLt9ZXDSiWQyMB1HFIOI71wHPe1kzYVxQtYkEorCEDPoXV41KtepZQEGvoRkZNEGEwlzqtxCvEFujC08HjVCVHaFivvrXonSat7kq5HoPDwvPOQjsx4bmApdCx0DSA1YHG_uLxKe9wKEbbyg3_Ow92SKPyyqACJQYwwqpIpU7j4TvN7QR6ZCnLvLVGxyZApnT0EmsbNZdQ4ooxgdpKAY0gh0_rUKytkOzmJRdrJtaQfXCqWeJKw_32PWPeJ0nyAEW_T0Z0h7i50oPgdVZxHgtu_QAAAABoZGqyAA")
+    STRING_SESSION = os.environ.get("STRING_SESSION", "")
     
     # database config
     DB_NAME = os.environ.get("DB_NAME","Jishuxbotz")     
