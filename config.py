@@ -15,10 +15,10 @@ class Config(object):
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
 
     # premium account string session required 
-    STRING_SESSION = os.environ.get("STRING_SESSION", "AQFCPbcApC3Gc6p605h59zcaFshopY4fv9UP6m6261ASD6Gb8XWLPg83gS0ATdzd19Qql0HNf908Z6PjPLUftEcwDGAzEtz23NeSlXjr6TD5gT5xGJkljQDUcIAwAgx0fzLiQDTvCcjWIQle0XkLwqKznzkPZN4-w8R6P9y9B3tekFhHtd6glBZdsWbMCey9ktXeSLutmV1kvl13I_UySdve27vwhGE3BqNLH6phZMS_iVKzBKE3jdT8qYay3u4EJ71bI-P-BVFEuk8KaPRzMFMNLlwoKTzqGjlrgbRycia4A-b1aoQ_sy4d0Y1zM55FZzaiiJSmUSGIruSP4Lz9-kRZHnVQ6gAAAAFXWOSNAA")
+    STRING_SESSION = os.environ.get("STRING_SESSION", "BQGaovQAGtgxZ0fpVtt-HtNaEb9-bWBeqsx-tedl-fOmAuMTeDirUfFkFzwcb-SNhYUIgmsLt9ZXDSiWQyMB1HFIOI71wHPe1kzYVxQtYkEorCEDPoXV41KtepZQEGvoRkZNEGEwlzqtxCvEFujC08HjVCVHaFivvrXonSat7kq5HoPDwvPOQjsx4bmApdCx0DSA1YHG_uLxKe9wKEbbyg3_Ow92SKPyyqACJQYwwqpIpU7j4TvN7QR6ZCnLvLVGxyZApnT0EmsbNZdQ4ooxgdpKAY0gh0_rUKytkOzmJRdrJtaQfXCqWeJKw_32PWPeJ0nyAEW_T0Z0h7i50oPgdVZxHgtu_QAAAABoZGqyAA")
     
     # database config
-    DB_NAME = os.environ.get("DB_NAME","Digital_Rename_Bot")     
+    DB_NAME = os.environ.get("DB_NAME","Jishuxbotz")     
     DB_URL = os.environ.get("DB_URL","mongodb+srv://Kakashi:aloksingh@kakashi.hnjnbw0.mongodb.net/?retryWrites=true&w=majority")
  
     # other configs
